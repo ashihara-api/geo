@@ -6,7 +6,7 @@ require (
 	github.com/ashihara-api/core v0.0.4
 	github.com/go-chi/chi/v5 v5.0.12
 	github.com/huandu/go-sqlbuilder v1.32.0
-	github.com/jmoiron/sqlx v1.3.5
+	github.com/jmoiron/sqlx v1.4.0
 	github.com/usk81/aveo v0.0.2
 	github.com/xuri/excelize/v2 v2.9.0
 	golang.org/x/text v0.19.0
