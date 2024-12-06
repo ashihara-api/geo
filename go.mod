@@ -9,7 +9,7 @@ require (
 	github.com/jmoiron/sqlx v1.3.5
 	github.com/usk81/aveo v0.0.2
 	github.com/xuri/excelize/v2 v2.9.0
-	golang.org/x/text v0.19.0
+	golang.org/x/text v0.21.0
 )
 
 require (
