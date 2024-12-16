@@ -4,7 +4,7 @@ go 1.22.1
 
 require (
 	github.com/ashihara-api/core v0.0.4
-	github.com/go-chi/chi/v5 v5.0.12
+	github.com/go-chi/chi/v5 v5.2.0
 	github.com/huandu/go-sqlbuilder v1.32.0
 	github.com/jmoiron/sqlx v1.3.5
 	github.com/usk81/aveo v0.0.2
